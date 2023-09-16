@@ -1,0 +1,19 @@
+{
+  "name": "batch18",
+  "version": "1.0.0",
+  "description": "automation API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "briyan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
